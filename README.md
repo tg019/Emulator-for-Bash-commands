@@ -1,3 +1,3 @@
 # Emulator-for-Bash-commands
-Unix commands (Java)
+Unix commands
 Java-8
